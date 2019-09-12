@@ -9,13 +9,13 @@ Main objective of this project is to distinguishing the mutations that contribut
 
 # Business constraints:
 
-1.errors can be costly 
+-errors can be costly 
 
-2.interpretability is very important 
+-interpretability is very important 
 
-3.No low latency is required
+-No low latency is required
 
-4.Probability of a data-point belonging to each class is needed
+-Probability of a data-point belonging to each class is needed
 
 # Data Overview:
 
